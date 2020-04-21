@@ -1,0 +1,5 @@
+category,name,percentile,raw_score,significant,trait_id
+needs,Challenge,0.092486372970822,0.6723332146919361,True,need_challenge
+needs,Closeness,0.540924308321433,0.7979222696743201,True,need_closeness
+values,Conservation,0.265781926003754,0.6372654291983101,True,value_conservation
+values,Openness to change,0.602928326765307,0.7943301063735361,True,value_openness_to_change
