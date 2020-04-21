@@ -6,7 +6,7 @@ import csv
 
 # read jason file
 data=pd.read_json(r'input.json')
-# normalize based on different keys
+# normalize based on different keys, see the input.json
 df1 = json_normalize(data["needs"])
 df2=json_normalize(data["values"])
 #join keys
